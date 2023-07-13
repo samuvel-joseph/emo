@@ -1,0 +1,72 @@
+.face{
+    height: 250px;
+    width: 250px;
+background-color: rgb(255, 192, 254);
+border: 2px solid black;
+border-radius: 50%;
+
+margin: auto;
+margin-top:10% ;
+}
+.eyes{
+    display: flex;
+    width: 250px;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.ieye{
+    height: 75px;
+    width: 75px;
+background-color:white;
+border-radius: 50%;
+border: 2px solid black;
+}
+.reye{
+    height: 75px;
+    width: 75px;
+background-color: white;
+border-radius: 50%;
+border: 2px solid black;
+
+}
+.lpuple{
+    height: 30px;
+    width: 30px;
+    background-color: black ;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 20px;
+}
+.rpuple{
+    height: 30px;
+    width: 30px;
+    background-color: black ;
+    border-radius: 50%;
+    margin:auto;
+    margin-top: 20px;
+}
+.nose{
+    height: 60px;
+    width: 100px;
+    background-color:red;
+    border-radius: 50%;
+    margin:auto;
+    margin-top: 30px;
+   display: flex;
+}
+.lnose{
+    height: 30px;
+    width: 30px;
+    background-color: black ;
+    border-radius: 50%;
+    margin:auto;
+    margin-top: 15px;
+}
+.rnose{
+    height: 30px;
+    width: 30px;
+    background-color: black ;
+    border-radius: 50%;
+    margin:auto;
+    margin-top: 15px;
+}
